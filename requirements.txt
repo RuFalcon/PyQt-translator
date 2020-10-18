@@ -1,0 +1,10 @@
+googletrans==3.0.0
+idna==2.10
+pypiwin32==223
+PyQt5==5.15.1
+PyQt5-sip==12.8.1
+pyqt5-tools==5.15.1.1.7.5
+pyttsx3==2.90
+pywin32==228
+rfc3986==1.4.0
+sniffio==1.2.0
