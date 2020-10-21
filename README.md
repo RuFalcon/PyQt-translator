@@ -9,7 +9,7 @@
 - Меняет регистр слов и букв
 - Зачитывает английский и русский текст
 
-![Переводчик](https://cloclo3.cloud.mail.ru/inline/translator.gif "Переводчик")
+![Переводчик](http://gamedz.ru/wp-content/uploads/2020/translator.gif "Переводчик")
 
 ## Зависимости
 - googletrans
