@@ -9,7 +9,13 @@
 - Меняет регистр слов и букв
 - Зачитывает английский и русский текст
 
-![Переводчик](https://filebin.net/bwv3k6ne3aa8ozou/translator.gif?t=3cbete7n "Переводчик")
+![Переводчик](https://cloclo3.cloud.mail.ru/inline/translator.gif "Переводчик")
+
+## Зависимости
+- googletrans
+- PyQt5
+- pyqt5-tools
+- pyttsx3
 
 ## Установка
 
